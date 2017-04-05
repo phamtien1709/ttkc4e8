@@ -4,3 +4,20 @@ body {
 .w3-container {
     padding: 0.025em 4px;
 }
+.circle {
+    width: 80px;
+    height: 80px;
+    background: pink;
+    -moz-border-radius: 40px;
+    -webkit-border-radius: 40px;
+    --border-radius:40x;
+    border-radius: 40px;
+}
+#headTTA {
+    display: block;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    margin: auto;
+    padding: inherit;
+    color: darkred;
+}
